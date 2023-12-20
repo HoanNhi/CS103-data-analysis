@@ -2,7 +2,7 @@
 The repository contains the two assignments of the course: Data analysis using Scikit-learn Logistic Regression and Linear Regression models
 ## Prompt
 1. First assignment: Predict the loan amount for which a customer can request a bank with his/her collateral house.
-     - Dataset: house_loan.csv
+     - Dataset: [house_loan.csv](house_loan_updated.csv)
           - Gender: Gender of customer requesting for a loan (‘F’ or ‘M’).
           - Age: Age of customer requesting for a loan (non-negative values).
           - Income (USD): Income of customer requesting for a loan (non-negative values).
@@ -13,7 +13,7 @@ The repository contains the two assignments of the course: Data analysis using S
           - Loan Sanction Amount (USD): Ammount of loan the customer can requst for (USD, target value)
      - Model: Scikit-learn Linear regression
 2. Second assignment: Predict whether a particular person has a heart disease or not based on 14 attributes.
-     - Dataset: heart-disease.csv
+     - Dataset: [heart-disease.csv](heart-disease.csv)
           - age: The person’s age in years
           - sex: The person’s sex (1 = male, 0 = female)
           - cp: chest pain type
